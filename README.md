@@ -1,5 +1,4 @@
-{\rtf1}
-AV-Janata-Hack-Healthcare-Analytics
+# AV-Janata-Hack-Healthcare-Analytics
 
 Probelm Statement:
 
